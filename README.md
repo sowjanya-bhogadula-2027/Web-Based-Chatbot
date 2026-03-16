@@ -1,5 +1,5 @@
 **Web-RAG Chatbot**
-This is a tool that lets you chat with any website. It reads the page content, understands the context, and answers your questions in a chat format.
+This is a tool that lets you chat with any website. It reads the page content, understands the context, and answers your questions in a chat format. Only use the websites that has no ai bot blocker. example: https://lilianweng.github.io/posts/    (you can chose any of these posts for experimenting the code.)
 
 **Main Features**
 **URL Input:** Just paste a link to read its content.
